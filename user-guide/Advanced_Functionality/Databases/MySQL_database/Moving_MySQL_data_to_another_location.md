@@ -12,7 +12,7 @@ If you want to move the MySQL data directory to another location, you cannot jus
 
     1. Go to *Service Control* and stop the MySQL service.
 
-    2. Go to *Startup Variables* and write down the contents of both the *Base directory* and *Data directory* boxes.
+    2. Go to *System Variables* and write down the contents of both the *Base directory* and *Data directory* boxes.
 
 3. If the data has to be moved to a folder that does not exist yet, then create that folder.
 
